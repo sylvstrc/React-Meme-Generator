@@ -1,0 +1,13 @@
+@import '../navbar/navbar.css';
+@import '../landing/landing.css';
+@import '../createpage/createpage.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: 200 !important;
+}
+
+.App {
+  font-weight: 200;
+}

@@ -1,0 +1,36 @@
+#hidden-photos {
+    visibility: hidden !important; 
+    display: none !important;
+}
+
+.landing{
+    padding-top: 30px;
+}
+
+.landing .header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.landing h6 {
+    color: grey;
+    padding-left: 30px;
+    margin: 0;
+    font-size: 130%;
+}
+
+.landing .check{
+    color: #4db6ac;
+    font-size: 150%;
+    display: inline;
+    margin-left: 10px;
+}
+
+.row .col{
+    padding: 0.3% !important;
+}
+
+.header{
+    margin: 30px 0 40px;
+}
+
